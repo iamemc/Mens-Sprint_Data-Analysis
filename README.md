@@ -34,17 +34,9 @@ INTRODUCTION
 > their performance at the Men's Sprint events in one or many Olympic Editions.
 > The PDF file contains a data analysis of the athlete statistics per edition.
 
-REQUIREMENTS
+RESULTS
 ---------------
-None. As it's only a database as of now, a plain text editor or excel-type software will work.
-
-> We recommend opening this readme.md file in a markdown editor/interface for proper displaying.
-
-Recommended:
-```sh 
-Excel 2016 or later
-Notepad++
-```
+![alt text](http://https://imgur.com/ArOgJUa.png)
 
 Men's Sprint Rules
 ---------------
