@@ -36,7 +36,9 @@ INTRODUCTION
 
 RESULTS
 ---------------
+<p align="center">
 ![](images/graph_1.png)
+</p>
 ![](images/graph_6.png?raw=true)
 ![](images/graph_8.png?raw=true)
 ![](images/graph_9.png?raw=true)
