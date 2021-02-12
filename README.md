@@ -25,18 +25,6 @@ STRUCTURE
 	- sport_events.csv
 - images [if created]
 
-RESULTS
----------------
-![](images/graph_1.png)
-![](images/graph_6.png?raw=true)
-![](images/graph_7.png?raw=true)
-![](images/graph_8.png?raw=true)
-![](images/graph_9.png?raw=true)
-![](images/table_1.png?raw=true)
-![](images/table_2.png?raw=true)
-![](images/table_3.png?raw=true)
-![](images/table_4.png?raw=true)
-
 INTRODUCTION
 ---------------
 
@@ -45,6 +33,13 @@ INTRODUCTION
 > Within, are 2 csv structured files representing Cycling Olympic Players and selected data of 
 > their performance at the Men's Sprint events in one or many Olympic Editions.
 > The PDF file contains a data analysis of the athlete statistics per edition.
+
+RESULTS
+---------------
+![](images/graph_1.png)
+![](images/graph_6.png?raw=true)
+![](images/graph_8.png?raw=true)
+![](images/graph_9.png?raw=true)
 
 Men's Sprint Rules
 ---------------
