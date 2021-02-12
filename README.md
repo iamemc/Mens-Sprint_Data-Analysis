@@ -160,9 +160,13 @@ https://www.olympedia.org/editions/59
 
 **2016:**
 https://en.wikipedia.org/wiki/Cycling_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_sprint
+
 https://www.olympic.org/rio-2016/cycling-road
+
 https://www.cyclingweekly.com/news/racing/olympics/rio-2016-olympic-games-cycling-medal-table-272364
+
 www.assetrio2016.azureedge.net/_odf-documents
+
 https://web.archive.org/web/20160806081759/https://www.rio2016.com/en/cycling-track-standings-ct-mens-sprint
 
 **2012:**
