@@ -36,7 +36,7 @@ INTRODUCTION
 
 RESULTS
 ---------------
-![alt text](http://https://imgur.com/ArOgJUa.png)
+[!(https://github.com/iamemc/Mens-Sprint_Data-Analysis/blob/main/images/graph_1.png)]
 
 Men's Sprint Rules
 ---------------
