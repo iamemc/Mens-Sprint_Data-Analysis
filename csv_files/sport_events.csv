@@ -1,0 +1,533 @@
+year,athlete_id,race_id,round,heat,time,avg_km_h,rank,result,record,host_country,venue
+2016,1,101,Qualifying,1,"9,551","75,384",1,Q,OR,Brazil,Rio Olympic Velodrome
+2016,2,103,Qualifying,1,"9,703","74,203",2,Q,N,Brazil,Rio Olympic Velodrome
+2016,3,72,Qualifying,1,"9,704","74,196",3,Q,N,Brazil,Rio Olympic Velodrome
+2016,4,143,Qualifying,1,"9,774","73,664",4,Q,N,Brazil,Rio Olympic Velodrome
+2016,5,94,Qualifying,1,"9,807","73,416",5,Q,N,Brazil,Rio Olympic Velodrome
+2016,6,151,Qualifying,1,"9,813","73,372",6,Q,N,Brazil,Rio Olympic Velodrome
+2016,7,142,Qualifying,1,"9,823","73,297",7,Q,N,Brazil,Rio Olympic Velodrome
+2016,8,128,Qualifying,1,"9,837","73,193",8,Q,N,Brazil,Rio Olympic Velodrome
+2016,9,137,Qualifying,1,"9,88","72,874",9,Q,N,Brazil,Rio Olympic Velodrome
+2016,10,133,Qualifying,1,"9,895","72,764",10,Q,N,Brazil,Rio Olympic Velodrome
+2016,11,96,Qualifying,1,"9,898","72,741",11,Q,N,Brazil,Rio Olympic Velodrome
+2016,12,106,Qualifying,1,"9,908","72,668",12,Q,N,Brazil,Rio Olympic Velodrome
+2016,13,84,Qualifying,1,"9,939","72,441",13,Q,N,Brazil,Rio Olympic Velodrome
+2016,14,88,Qualifying,1,"9,969","72,223",14,Q,N,Brazil,Rio Olympic Velodrome
+2016,15,141,Qualifying,1,"9,98","72,144",15,Q,N,Brazil,Rio Olympic Velodrome
+2016,16,86,Qualifying,1,"9,981","72,137",16,Q,N,Brazil,Rio Olympic Velodrome
+2016,17,71,Qualifying,1,"10,01","71,928",17,Q,N,Brazil,Rio Olympic Velodrome
+2016,18,108,Qualifying,1,"10,035","71,748",18,Q,N,Brazil,Rio Olympic Velodrome
+2016,19,93,Qualifying,1,"10,055","71,606",19,N,N,Brazil,Rio Olympic Velodrome
+2016,20,123,Qualifying,1,"10,092","71,343",20,N,N,Brazil,Rio Olympic Velodrome
+2016,21,126,Qualifying,1,"10,14","71,005",21,N,N,Brazil,Rio Olympic Velodrome
+2016,22,122,Qualifying,1,"10,147","70,956",22,N,N,Brazil,Rio Olympic Velodrome
+2016,23,87,Qualifying,1,"10,199","70,595",23,N,N,Brazil,Rio Olympic Velodrome
+2016,24,153,Qualifying,1,"10,239","70,319",24,N,N,Brazil,Rio Olympic Velodrome
+2016,25,119,Qualifying,1,"10,241","70,305",25,N,N,Brazil,Rio Olympic Velodrome
+2016,26,145,Qualifying,1,"10,418","69,111",26,N,N,Brazil,Rio Olympic Velodrome
+2016,27,154,Qualifying,1,"10,649","67,611",27,N,N,Brazil,Rio Olympic Velodrome
+2016,1,101,1/16 Finals,1,"10,254","70,216",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,18,108,1/16 Finals,1,"10,32","69,767",2,R,N,Brazil,Rio Olympic Velodrome
+2016,2,103,1/16 Finals,2,"10,299","69,909",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,17,71,1/16 Finals,2,"10,37","69,364",2,R,N,Brazil,Rio Olympic Velodrome
+2016,3,72,1/16 Finals,3,"10,141","70,998",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,16,86,1/16 Finals,3,"10,199","70,595",2,R,N,Brazil,Rio Olympic Velodrome
+2016,4,143,1/16 Finals,4,"10,214","70,491",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,15,141,1/16 Finals,4,"10,25","70,243",2,R,N,Brazil,Rio Olympic Velodrome
+2016,5,94,1/16 Finals,5,"10,373","69,41",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,14,88,1/16 Finals,5,"10,423","69,078",2,R,N,Brazil,Rio Olympic Velodrome
+2016,13,84,1/16 Finals,6,"10,428","69,044",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,6,151,1/16 Finals,6,"10,573","68,097",2,R,N,Brazil,Rio Olympic Velodrome
+2016,12,106,1/16 Finals,7,"10,181","70,719",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,7,142,1/16 Finals,7,"10,222","70,436",2,R,N,Brazil,Rio Olympic Velodrome
+2016,8,128,1/16 Finals,8,"10,159","70,873",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,11,96,1/16 Finals,8,"10,211","70,512",2,R,N,Brazil,Rio Olympic Velodrome
+2016,9,137,1/16 Finals,9,"10,159","70,873",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,10,133,1/16 Finals,9,"10,309","69,868",2,R,N,Brazil,Rio Olympic Velodrome
+2016,18,108,1/16 Finals Repechages,1,"10,363","69,477",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,10,133,1/16 Finals Repechages,1,"10,387","69,317",2,N,N,Brazil,Rio Olympic Velodrome
+2016,6,151,1/16 Finals Repechages,1,"11,5059","62,576",3,N,N,Brazil,Rio Olympic Velodrome
+2016,17,71,1/16 Finals Repechages,2,"10,272","70,093",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,7,142,1/16 Finals Repechages,2,"10,3","69,902",2,N,N,Brazil,Rio Olympic Velodrome
+2016,14,88,1/16 Finals Repechages,2,"10,65","67,605",3,N,N,Brazil,Rio Olympic Velodrome
+2016,16,86,1/16 Finals Repechages,3,"10,272","70,093",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,15,141,1/16 Finals Repechages,3,"10,358","69,511",2,N,N,Brazil,Rio Olympic Velodrome
+2016,11,96,1/16 Finals Repechages,3,"10,879","66,182",3,N,N,Brazil,Rio Olympic Velodrome
+2016,1,101,1/8 Finals,1,"10,359","69,505",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,16,86,1/8 Finals,1,"10,468","68,781",2,R,N,Brazil,Rio Olympic Velodrome
+2016,2,103,1/8 Finals,2,"10,166","70,824",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,17,71,1/8 Finals,2,"10,187","70,678",2,R,N,Brazil,Rio Olympic Velodrome
+2016,3,72,1/8 Finals,3,"10,102","71,273",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,18,108,1/8 Finals,3,"10,161","70,859",2,R,N,Brazil,Rio Olympic Velodrome
+2016,4,143,1/8 Finals,4,"10,103","71,266",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,9,137,1/8 Finals,4,"10,245","70,278",2,R,N,Brazil,Rio Olympic Velodrome
+2016,5,94,1/8 Finals,5,"10,449","68,906",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,8,128,1/8 Finals,7,"10,57","68,117",2,R,N,Brazil,Rio Olympic Velodrome
+2016,12,106,1/8 Finals,6,"10,449","68,906",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,13,84,1/8 Finals,6,"10,507","68,526",2,R,N,Brazil,Rio Olympic Velodrome
+2016,13,84,1/8 Finals Repechages,1,"10,456","68,86",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,9,137,1/8 Finals Repechages,1,"10,504","68,545",2,C,N,Brazil,Rio Olympic Velodrome
+2016,16,86,1/8 Finals Repechages,1,"10,637","67,688",3,C,N,Brazil,Rio Olympic Velodrome
+2016,17,71,1/8 Finals Repechages,2,"10,753","66,958",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,18,108,1/8 Finals Repechages,2,"10,801","66,66",2,C,N,Brazil,Rio Olympic Velodrome
+2016,8,128,1/8 Finals Repechages,2,"10,934","65,85",3,C,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Quarter Final 1 - Race 1,1,"10,341","69,625",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,17,71,Quarter Final 1 - Race 1,1,"10,535","68,343",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Quarter Final 1 - Race 2,1,"10,219","70,456",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,17,71,Quarter Final 1 - Race 2,1,"10,477","68,721",2,C,N,Brazil,Rio Olympic Velodrome
+2016,2,103,Quarter Final 2 - Race 1,2,"10,456","68,859",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,13,84,Quarter Final 2 - Race 1,2,"10,578","68,065",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,2,103,Quarter Final 2 - Race 2,2,"10,401","69,224",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,13,84,Quarter Final 2 - Race 2,2,"10,601","67,918",2,C,N,Brazil,Rio Olympic Velodrome
+2016,3,72,Quarter Final 3 - Race 1,1,"10,341","69,625",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,12,106,Quarter Final 3 - Race 1,1,"10,425","69,064",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,3,72,Quarter Final 3 - Race 2,1,"10,219","70,456",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,12,106,Quarter Final 3 - Race 2,1,"10,268","70,12",2,C,N,Brazil,Rio Olympic Velodrome
+2016,4,143,Quarter Final 4 - Race 1,2,"10,456","68,859",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,5,94,Quarter Final 4 - Race 1,2,"10,519","68,447",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,4,143,Quarter Final 4 - Race 2,2,"10,401","69,224",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,5,94,Quarter Final 4 - Race 2,2,"10,614","67,834",2,C,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Semifinals 1 - Race 1,1,"10,182","71,012",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,4,143,Semifinals 1 - Race 1,1,"10,139","71,153",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Semifinals 1 - Race 2,1,"10,048","71,656",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,4,143,Semifinals 1 - Race 2,1,"10,171","70,285",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Semifinals 1 - Race 3,1,"10,071","71,492",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,4,143,Semifinals 1 - Race 3,1,"10,373","69,41",2,B,N,Brazil,Rio Olympic Velodrome
+2016,2,103,Semifinals 2 - Race 1,2,"10,119","71,153",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,3,72,Semifinals 2 - Race 1,2,"10,165","70,831",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,2,103,Semifinals 2 - Race 2,2,"10,244","70,285",1,Q,N,Brazil,Rio Olympic Velodrome
+2016,3,72,Semifinals 2 - Race 2,2,"10,301","69,896",2,B,N,Brazil,Rio Olympic Velodrome
+2016,18,108,Race for 9th-12th Places,1,"10,275","70,072",1,9,N,Brazil,Rio Olympic Velodrome
+2016,16,86,Race for 9th-12th Places,1,"10,342","69,619",2,10,N,Brazil,Rio Olympic Velodrome
+2016,8,128,Race for 9th-12th Places,1,"10,401","69,224",3,11,N,Brazil,Rio Olympic Velodrome
+2016,9,137,Race for 9th-12th Places,1,"10,604","70,401",4,12,N,Brazil,Rio Olympic Velodrome
+2016,12,106,Race for 5th-8th Places,1,"10,525","68,408",1,5,N,Brazil,Rio Olympic Velodrome
+2016,13,84,Race for 5th-8th Places,1,"10,561","68,175",2,6,N,Brazil,Rio Olympic Velodrome
+2016,5,94,Race for 5th-8th Places,1,"10,678","67,428",3,7,N,Brazil,Rio Olympic Velodrome
+2016,17,71,Race for 5th-8th Places,1,"10,776","66,815",4,8,N,Brazil,Rio Olympic Velodrome
+2016,3,143,Final for bronze - Race 1,1,"10,105","71,251",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,4,72,Final for bronze - Race 1,1,"10,177","70,747",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,3,143,Final for bronze - Race 2,1,"10,19","70,657",1,3,N,Brazil,Rio Olympic Velodrome
+2016,4,72,Final for bronze - Race 2,1,"10,234","70,353",2,4,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Final for Gold - Race 1,1,"10,164","70,838",1,TBD,N,Brazil,Rio Olympic Velodrome
+2016,2,103,Final for Gold - Race 1,1,"10,277","70,059",2,TBD,N,Brazil,Rio Olympic Velodrome
+2016,1,101,Final for Gold - Race 2,1,"9,916","72,609",1,1,N,Brazil,Rio Olympic Velodrome
+2016,2,103,Final for Gold - Race 2,1,"10,002","71,985",2,2,N,Brazil,Rio Olympic Velodrome
+2012,1,NA,Qualifying,1,"9,713","74,127",1,Q,OR,United Kingdom,London Velopark
+2012,5,NA,Qualifying,1,"9,952","72,347",2,Q,N,United Kingdom,London Velopark
+2012,28,NA,Qualifying,1,"9,987","72,093",3,Q,N,United Kingdom,London Velopark
+2012,29,NA,Qualifying,1,"10,072","71,485",4,Q,N,United Kingdom,London Velopark
+2012,4,NA,Qualifying,1,"10,088","71,371",5,Q,N,United Kingdom,London Velopark
+2012,24,NA,Qualifying,1,"10,123","71,125",6,Q,N,United Kingdom,London Velopark
+2012,25,NA,Qualifying,1,"10,144","70,977",7,Q,N,United Kingdom,London Velopark
+2012,30,NA,Qualifying,1,"10,155","70,901",8,Q,N,United Kingdom,London Velopark
+2012,31,NA,Qualifying,1,"10,201","70,581",9,Q,N,United Kingdom,London Velopark
+2012,6,NA,Qualifying,1,"10,202","70,574",10,Q,N,United Kingdom,London Velopark
+2012,32,NA,Qualifying,1,"10,226","70,408",11,Q,N,United Kingdom,London Velopark
+2012,33,NA,Qualifying,1,"10,247","70,264",12,Q,N,United Kingdom,London Velopark
+2012,14,NA,Qualifying,1,"10,311","69,828",13,Q,N,United Kingdom,London Velopark
+2012,8,NA,Qualifying,1,"10,323","69,747",14,Q,N,United Kingdom,London Velopark
+2012,34,NA,Qualifying,1,"10,35","69,565",15,Q,N,United Kingdom,London Velopark
+2012,35,NA,Qualifying,1,"10,604","67,898",16,Q,N,United Kingdom,London Velopark
+2012,36,NA,Qualifying,1,"10,663","67,523",17,Q,N,United Kingdom,London Velopark
+2012,5,NA,1/16 Finals,1,-,-,1,Q,N,United Kingdom,London Velopark
+2012,36,NA,1/16 Finals,1,-,-,2,DNS,N,United Kingdom,London Velopark
+2012,28,NA,1/16 Finals,2,"10,722","67,151",1,Q,N,United Kingdom,London Velopark
+2012,35,NA,1/16 Finals,2,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,29,NA,1/16 Finals,3,"11,100","64,864",1,Q,N,United Kingdom,London Velopark
+2012,34,NA,1/16 Finals,3,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,4,NA,1/16 Finals,4,"10,690","67,352",1,Q,N,United Kingdom,London Velopark
+2012,7,NA,1/16 Finals,4,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,14,NA,1/16 Finals,5,"10,84","66,42",1,Q,N,United Kingdom,London Velopark
+2012,24,NA,1/16 Finals,5,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,33,NA,1/16 Finals,6,"10,399","69,237",1,Q,N,United Kingdom,London Velopark
+2012,25,NA,1/16 Finals,6,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,32,NA,1/16 Finals,7,"10,473","68,748",1,Q,N,United Kingdom,London Velopark
+2012,30,NA,1/16 Finals,7,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,6,NA,1/16 Finals,8,"10,221","70,443",1,Q,N,United Kingdom,London Velopark
+2012,31,NA,1/16 Finals,8,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,24,NA,1/16 Finals Repechages,1,"10,439","68,972",1,Q,N,United Kingdom,London Velopark
+2012,31,NA,1/16 Finals Repechages,1,NA,NA,2,N,N,United Kingdom,London Velopark
+2012,25,NA,1/16 Finals Repechages,2,"10,792","66,716",1,Q,N,United Kingdom,London Velopark
+2012,7,NA,1/16 Finals Repechages,2,NA,NA,2,N,N,United Kingdom,London Velopark
+2012,34,NA,1/16 Finals Repechages,3,"10,762","66,902",1,Q,N,United Kingdom,London Velopark
+2012,35,NA,1/16 Finals Repechages,3,NA,NA,2,N,N,United Kingdom,London Velopark
+2012,30,NA,1/16 Finals Repechages,3,NA,NA,3,N,N,United Kingdom,London Velopark
+2012,1,NA,1/8 Finals,1,"10,363","69,477",1,Q,N,United Kingdom,London Velopark
+2012,34,NA,1/8 Finals,1,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,5,NA,1/8 Finals,2,"10,49","68,636",1,Q,N,United Kingdom,London Velopark
+2012,25,NA,1/8 Finals,2,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,28,NA,1/8 Finals,3,"10,978","65,585",1,Q,N,United Kingdom,London Velopark
+2012,24,NA,1/8 Finals,3,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,6,NA,1/8 Finals,4,"10,467",NA,1,Q,N,United Kingdom,London Velopark
+2012,29,NA,1/8 Finals,4,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,4,NA,1/8 Finals,5,"10,278","70,052",1,Q,N,United Kingdom,London Velopark
+2012,32,NA,1/8 Finals,5,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,33,NA,1/8 Finals,6,"10,511","68,499",1,Q,N,United Kingdom,London Velopark
+2012,68,NA,1/8 Finals,6,NA,NA,2,R,N,United Kingdom,London Velopark
+2012,29,NA,1/8 Finals Repechages,1,"10,881","66,17",1,Q,N,United Kingdom,London Velopark
+2012,14,NA,1/8 Finals Repechages,1,NA,NA,2,C,N,United Kingdom,London Velopark
+2012,34,NA,1/8 Finals Repechages,1,NA,NA,3,C,N,United Kingdom,London Velopark
+2012,32,NA,1/8 Finals Repechages,2,"10,456","68,859",1,Q,N,United Kingdom,London Velopark
+2012,24,NA,1/8 Finals Repechages,2,NA,NA,2,C,N,United Kingdom,London Velopark
+2012,25,NA,1/8 Finals Repechages,2,NA,NA,3,C,N,United Kingdom,London Velopark
+2012,1,NA,Quarter Final 1 - Race 1,1,"10,433","69,011",1,TBD,N,United Kingdom,London Velopark
+2012,32,NA,Quarter Final 1 - Race 1,1,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,1,NA,Quarter Final 1 - Race 2,1,"10,030","71,784",1,Q,N,United Kingdom,London Velopark
+2012,32,NA,Quarter Final 1 - Race 2,1,NA,NA,2,C,N,United Kingdom,London Velopark
+2012,5,NA,Quarter Final 2 - Race 1,2,"10,472","68,754",1,TBD,N,United Kingdom,London Velopark
+2012,29,NA,Quarter Final 2 - Race 1,2,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,5,NA,Quarter Final 2 - Race 2,2,"10,300","69,902",1,Q,N,United Kingdom,London Velopark
+2012,29,NA,Quarter Final 2 - Race 2,2,NA,NA,2,C,N,United Kingdom,London Velopark
+2012,28,NA,Quarter Final 3 - Race 1,3,"10,520","68,441",1,TBD,N,United Kingdom,London Velopark
+2012,33,NA,Quarter Final 3 - Race 1,3,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,28,NA,Quarter Final 3 - Race 2,3,"10,263","70,154",1,Q,N,United Kingdom,London Velopark
+2012,33,NA,Quarter Final 3 - Race 2,3,NA,NA,2,C,N,United Kingdom,London Velopark
+2012,6,NA,Quarter Final 4 - Race 1,4,"10,545","68,278",1,TBD,N,United Kingdom,London Velopark
+2012,4,NA,Quarter Final 4 - Race 1,4,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,6,NA,Quarter Final 4 - Race 2,4,"10,300","69,902",1,C,N,United Kingdom,London Velopark
+2012,4,NA,Quarter Final 4 - Race 2,4,NA,NA,2,Q,N,United Kingdom,London Velopark
+2012,1,NA,Semifinals 1 - Race 1,1,"10,159","70,873",1,TBD,N,United Kingdom,London Velopark
+2012,6,NA,Semifinals 1 - Race 1,1,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,1,NA,Semifinals 1 - Race 2,1,"10,166","70,824",1,Q,N,United Kingdom,London Velopark
+2012,6,NA,Semifinals 1 - Race 2,1,NA,NA,2,B,N,United Kingdom,London Velopark
+2012,5,NA,Semifinals 2 - Race 1,2,"10,358","69,511",1,TBD,N,United Kingdom,London Velopark
+2012,28,NA,Semifinals 2 - Race 1,2,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,5,NA,Semifinals 2 - Race 2,2,"10,268","70,12",1,Q,N,United Kingdom,London Velopark
+2012,28,NA,Semifinals 2 - Race 2,2,NA,NA,2,B,N,United Kingdom,London Velopark
+2012,25,NA,Race for 9th-12th Places,1,"10,950","65,753",1,9,N,United Kingdom,London Velopark
+2012,14,NA,Race for 9th-12th Places,1,NA,NA,2,10,N,United Kingdom,London Velopark
+2012,34,NA,Race for 9th-12th Places,1,NA,NA,3,11,N,United Kingdom,London Velopark
+2012,24,NA,Race for 9th-12th Places,1,NA,NA,4,12,N,United Kingdom,London Velopark
+2012,4,NA,Race for 5th-8th Places,1,"10,340","69,632",1,5,N,United Kingdom,London Velopark
+2012,33,NA,Race for 5th-8th Places,1,NA,NA,2,6,N,United Kingdom,London Velopark
+2012,29,NA,Race for 5th-8th Places,1,NA,NA,3,7,N,United Kingdom,London Velopark
+2012,32,NA,Race for 5th-8th Places,1,NA,NA,4,8,N,United Kingdom,London Velopark
+2012,28,NA,Final for bronze - Race 1,1,"10,489","68,643",1,TBD,N,United Kingdom,London Velopark
+2012,6,NA,Final for bronze - Race 1,1,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,28,NA,Final for bronze - Race 2,1,"10,297","69,923",1,3,N,United Kingdom,London Velopark
+2012,6,NA,Final for bronze - Race 2,1,NA,NA,2,4,N,United Kingdom,London Velopark
+2012,1,NA,Final for Gold - Race 1,1,"10,232","70,367",1,TBD,N,United Kingdom,London Velopark
+2012,5,NA,Final for Gold - Race 1,1,NA,NA,2,TBD,N,United Kingdom,London Velopark
+2012,1,NA,Final for Gold - Race 2,1,"10,308","69,848",1,1,N,United Kingdom,London Velopark
+2012,5,NA,Final for Gold - Race 2,1,NA,NA,2,2,N,United Kingdom,London Velopark
+2004,44,NA,Qualifying,1,"10,177","70,747",1,Q,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Qualifying,1,"10,214","70,491",2,Q,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Qualifying,1,"10,230","70,381",3,Q,N,Greece,Athens Olympic Velodrome
+2004,40,NA,Qualifying,1,"12,264","70,148",4,Q,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Qualifying,1,"10,271","70,1",5,Q,N,Greece,Athens Olympic Velodrome
+2004,55,NA,Qualifying,1,"10,381","69,357",6,Q,N,Greece,Athens Olympic Velodrome
+2004,7,NA,Qualifying,1,"10,441","68,958",7,Q,N,Greece,Athens Olympic Velodrome
+2004,56,NA,Qualifying,1,"10,446","68,925",8,Q,N,Greece,Athens Olympic Velodrome
+2004,57,NA,Qualifying,1,"10,454","68,873",9,Q,N,Greece,Athens Olympic Velodrome
+2004,49,NA,Qualifying,1,"10,462","68,82",10,Q,N,Greece,Athens Olympic Velodrome
+2004,58,NA,Qualifying,1,"10,515","68,473",11,Q,N,Greece,Athens Olympic Velodrome
+2004,45,NA,Qualifying,1,"10,565","68,149",12,Q,N,Greece,Athens Olympic Velodrome
+2004,59,NA,Qualifying,1,"10,597","67,943",13,Q,N,Greece,Athens Olympic Velodrome
+2004,60,NA,Qualifying,1,"10,646","67,631",14,Q,N,Greece,Athens Olympic Velodrome
+2004,61,NA,Qualifying,1,"10,673","67,459",15,Q,N,Greece,Athens Olympic Velodrome
+2004,62,NA,Qualifying,1,"10,758","66,926",16,Q,N,Greece,Athens Olympic Velodrome
+2004,63,NA,Qualifying,1,"10,955","65,723",17,Q,N,Greece,Athens Olympic Velodrome
+2004,80,NA,Qualifying,1,"10,956","65,717",18,Q,N,Greece,Athens Olympic Velodrome
+2004,38,NA,Qualifying,1,"11,338","63,503",19,Q,N,Greece,Athens Olympic Velodrome
+2004,44,NA,1/16 Finals,1,"10,510","68,506",1,Q,N,Greece,Athens Olympic Velodrome
+2004,38,NA,1/16 Finals,1,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,21,NA,1/16 Finals,2,"10,799","66,672",1,Q,N,Greece,Athens Olympic Velodrome
+2004,80,NA,1/16 Finals,2,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,53,NA,1/16 Finals,3,"11,104","64,841",1,Q,N,Greece,Athens Olympic Velodrome
+2004,63,NA,1/16 Finals,3,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,40,NA,1/16 Finals,4,"10,988","65,526",1,Q,N,Greece,Athens Olympic Velodrome
+2004,62,NA,1/16 Finals,4,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,54,NA,1/16 Finals,5,"11,166","64,481",1,Q,N,Greece,Athens Olympic Velodrome
+2004,61,NA,1/16 Finals,5,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,55,NA,1/16 Finals,6,"10,768","66,864",1,Q,N,Greece,Athens Olympic Velodrome
+2004,59,NA,1/16 Finals,6,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,7,NA,1/16 Finals,7,"10,833","66,463",1,Q,N,Greece,Athens Olympic Velodrome
+2004,45,NA,1/16 Finals,7,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,73,NA,1/16 Finals,8,"11,234","64,091",1,Q,N,Greece,Athens Olympic Velodrome
+2004,58,NA,1/16 Finals,8,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,57,NA,1/16 Finals,9,"11,025","65,306",1,Q,N,Greece,Athens Olympic Velodrome
+2004,49,NA,1/16 Finals,9,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,59,NA,1/16 Finals Repechages,1,"10,731","67,095",1,Q,N,Greece,Athens Olympic Velodrome
+2004,49,NA,1/16 Finals Repechages,1,NA,NA,2,N,N,Greece,Athens Olympic Velodrome
+2004,38,NA,1/16 Finals Repechages,1,NA,NA,3,N,N,Greece,Athens Olympic Velodrome
+2004,45,NA,1/16 Finals Repechages,2,"10,74","67,039",1,Q,N,Greece,Athens Olympic Velodrome
+2004,61,NA,1/16 Finals Repechages,2,NA,NA,2,N,N,Greece,Athens Olympic Velodrome
+2004,80,NA,1/16 Finals Repechages,2,NA,NA,3,N,N,Greece,Athens Olympic Velodrome
+2004,58,NA,1/16 Finals Repechages,3,"11,006","65,418",1,Q,N,Greece,Athens Olympic Velodrome
+2004,63,NA,1/16 Finals Repechages,3,NA,NA,2,N,N,Greece,Athens Olympic Velodrome
+2004,62,NA,1/16 Finals Repechages,3,NA,NA,3,N,N,Greece,Athens Olympic Velodrome
+2004,44,NA,1/8 Finals,1,"10,520","68,441",1,Q,N,Greece,Athens Olympic Velodrome
+2004,58,NA,1/8 Finals,1,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,21,NA,1/8 Finals,2,"11,164","64,493",1,Q,N,Greece,Athens Olympic Velodrome
+2004,45,NA,1/8 Finals,2,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,53,NA,1/8 Finals,3,"10,548","68,259",1,Q,N,Greece,Athens Olympic Velodrome
+2004,59,NA,1/8 Finals,3,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,40,NA,1/8 Finals,4,"10,936","65,837",1,Q,N,Greece,Athens Olympic Velodrome
+2004,57,NA,1/8 Finals,4,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,54,NA,1/8 Finals,5,"10,772","66,839",1,Q,N,Greece,Athens Olympic Velodrome
+2004,73,NA,1/8 Finals,5,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,7,NA,1/8 Finals,6,"10,848","66,371",1,Q,N,Greece,Athens Olympic Velodrome
+2004,55,NA,1/8 Finals,6,NA,NA,2,R,N,Greece,Athens Olympic Velodrome
+2004,55,NA,1/8 Finals Repechages,1,"10,906","66,018",1,Q,N,Greece,Athens Olympic Velodrome
+2004,58,NA,1/8 Finals Repechages,1,NA,NA,2,C,N,Greece,Athens Olympic Velodrome
+2004,57,NA,1/8 Finals Repechages,1,NA,NA,3,C,N,Greece,Athens Olympic Velodrome
+2004,59,NA,1/8 Finals Repechages,2,"11,294","63,750",1,Q,N,Greece,Athens Olympic Velodrome
+2004,45,NA,1/8 Finals Repechages,2,NA,NA,2,C,N,Greece,Athens Olympic Velodrome
+2004,73,NA,1/8 Finals Repechages,2,NA,NA,3,C,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Quarter Final 1 - Race 1,1,"10,733","67,082",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,59,NA,Quarter Final 1 - Race 1,1,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Quarter Final 1 - Race 2,1,"10,807","66,623",1,Q,N,Greece,Athens Olympic Velodrome
+2004,59,NA,Quarter Final 1 - Race 2,1,NA,NA,2,C,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Quarter Final 2 - Race 1,2,"11,024","65,312",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,55,NA,Quarter Final 2 - Race 1,2,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Quarter Final 2 - Race 2,2,"10,905","66,024",1,Q,N,Greece,Athens Olympic Velodrome
+2004,55,NA,Quarter Final 2 - Race 2,2,NA,NA,2,C,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Quarter Final 3 - Race 1,3,"10,556","68,207",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,7,NA,Quarter Final 3 - Race 1,3,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Quarter Final 3 - Race 2,3,"10,749","66,982",1,Q,N,Greece,Athens Olympic Velodrome
+2004,7,NA,Quarter Final 3 - Race 2,3,NA,NA,2,C,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Quarter Final 4 - Race 1,4,"11,018","65,347",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,40,NA,Quarter Final 4 - Race 1,4,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Quarter Final 4 - Race 2,4,"10,876","66,200",1,Q,N,Greece,Athens Olympic Velodrome
+2004,40,NA,Quarter Final 4 - Race 2,4,NA,NA,2,C,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Semifinals 1 - Race 1,1,"10,546","68,272",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Semifinals 1 - Race 1,1,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Semifinals 1 - Race 2,1,"10,638","67,681",1,Q,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Semifinals 1 - Race 2,1,NA,NA,2,B,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Semifinals 2 - Race 1,2,"10,502","68,558",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Semifinals 2 - Race 1,2,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Semifinals 2 - Race 2,2,"10,639","67,675",1,Q,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Semifinals 2 - Race 2,2,NA,NA,2,B,N,Greece,Athens Olympic Velodrome
+2004,73,NA,Race for 9th-12th Places,1,"11,063","65,081",1,9,N,Greece,Athens Olympic Velodrome
+2004,45,NA,Race for 9th-12th Places,1,NA,NA,2,10,N,Greece,Athens Olympic Velodrome
+2004,58,NA,Race for 9th-12th Places,1,NA,NA,3,11,N,Greece,Athens Olympic Velodrome
+2004,57,NA,Race for 9th-12th Places,1,NA,NA,4,12,N,Greece,Athens Olympic Velodrome
+2004,55,NA,Race for 5th-8th Places,1,"11,214","64,205",1,5,N,Greece,Athens Olympic Velodrome
+2004,59,NA,Race for 5th-8th Places,1,NA,NA,2,6,N,Greece,Athens Olympic Velodrome
+2004,7,NA,Race for 5th-8th Places,1,NA,NA,3,7,N,Greece,Athens Olympic Velodrome
+2004,40,NA,Race for 5th-8th Places,1,NA,NA,4,8,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Final for bronze - Race 1,1,"10,677","67,434",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Final for bronze - Race 1,1,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,53,NA,Final for bronze - Race 2,1,"10,612","67,847",1,3,N,Greece,Athens Olympic Velodrome
+2004,54,NA,Final for bronze - Race 2,1,NA,NA,2,4,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Final for Gold - Race 1,1,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Final for Gold - Race 1,1,"10,710","67,226",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Final for Gold - Race 2,1,"10,661","67,535",1,TBD,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Final for Gold - Race 2,1,NA,NA,2,TBD,N,Greece,Athens Olympic Velodrome
+2004,44,NA,Final for Gold - Race 3,1,"10,743","67,020",1,1,N,Greece,Athens Olympic Velodrome
+2004,21,NA,Final for Gold - Race 3,1,NA,NA,2,2,N,Greece,Athens Olympic Velodrome
+2000,64,NA,Qualifying,1,"10,166","70,844",1,Q,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Qualifying,1,"10,243","70,292",2,Q,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Qualifying,1,"10,277","70,059",3,Q,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Qualifying,1,"10,287","69,991",4,Q,N,Australia,Dunc Gray Velodrome
+2000,67,NA,Qualifying,1,"10,343","69,612",5,Q,N,Australia,Dunc Gray Velodrome
+2000,68,NA,Qualifying,1,"10,37","69,431",6,Q,N,Australia,Dunc Gray Velodrome
+2000,69,NA,Qualifying,1,"10,459","68,84",7,Q,N,Australia,Dunc Gray Velodrome
+2000,57,NA,Qualifying,1,"10,52","68,441",8,Q,N,Australia,Dunc Gray Velodrome
+2000,70,NA,Qualifying,1,"10,526","68,402",9,Q,N,Australia,Dunc Gray Velodrome
+2000,71,NA,Qualifying,1,"10,53","68,378",10,Q,N,Australia,Dunc Gray Velodrome
+2000,72,NA,Qualifying,1,"10,54","68,311",11,Q,N,Australia,Dunc Gray Velodrome
+2000,73,NA,Qualifying,1,"10,556","68,208",12,Q,N,Australia,Dunc Gray Velodrome
+2000,60,NA,Qualifying,1,"10,595","67,957",13,Q,N,Australia,Dunc Gray Velodrome
+2000,74,NA,Qualifying,1,"10,603","67,905",14,Q,N,Australia,Dunc Gray Velodrome
+2000,75,NA,Qualifying,1,"10,649","67,612",15,Q,N,Australia,Dunc Gray Velodrome
+2000,76,NA,Qualifying,1,"10,745","67,008",16,Q,N,Australia,Dunc Gray Velodrome
+2000,77,NA,Qualifying,1,"10,893","66,097",17,Q,N,Australia,Dunc Gray Velodrome
+2000,78,NA,Qualifying,1,"10,903","66,037",18,Q,N,Australia,Dunc Gray Velodrome
+2000,79,NA,Qualifying,1,"11,106","64,83",19,N,N,Australia,Dunc Gray Velodrome
+2000,64,NA,1/16 Finals,1,"10,956","65,717",1,Q,N,Australia,Dunc Gray Velodrome
+2000,78,NA,1/16 Finals,1,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,54,NA,1/16 Finals,2,"11,054","65,135",1,Q,N,Australia,Dunc Gray Velodrome
+2000,77,NA,1/16 Finals,2,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,65,NA,1/16 Finals,3,"10,865","66,268",1,Q,N,Australia,Dunc Gray Velodrome
+2000,76,NA,1/16 Finals,3,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,66,NA,1/16 Finals,4,-,-,1,Q,N,Australia,Dunc Gray Velodrome
+2000,75,NA,1/16 Finals,4,-,-,2,DNS,N,Australia,Dunc Gray Velodrome
+2000,67,NA,1/16 Finals,5,"11,008","65,407",1,Q,N,Australia,Dunc Gray Velodrome
+2000,74,NA,1/16 Finals,5,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,68,NA,1/16 Finals,6,"11,102","64,853",1,Q,N,Australia,Dunc Gray Velodrome
+2000,60,NA,1/16 Finals,6,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,73,NA,1/16 Finals,7,NA,NA,1,Q,N,Australia,Dunc Gray Velodrome
+2000,69,NA,1/16 Finals,7,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,72,NA,1/16 Finals,8,NA,NA,1,Q,N,Australia,Dunc Gray Velodrome
+2000,57,NA,1/16 Finals,8,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,70,NA,1/16 Finals,9,"10,938","65,826",1,Q,N,Australia,Dunc Gray Velodrome
+2000,71,NA,1/16 Finals,9,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,78,NA,1/16 Finals Repechages,1,"11,186","64,366",1,Q,N,Australia,Dunc Gray Velodrome
+2000,71,NA,1/16 Finals Repechages,1,NA,NA,2,N,N,Australia,Dunc Gray Velodrome
+2000,60,NA,1/16 Finals Repechages,1,NA,NA,3,N,N,Australia,Dunc Gray Velodrome
+2000,69,NA,1/16 Finals Repechages,2,"10,951","65,747",1,Q,N,Australia,Dunc Gray Velodrome
+2000,74,NA,1/16 Finals Repechages,2,NA,NA,2,N,N,Australia,Dunc Gray Velodrome
+2000,77,NA,1/16 Finals Repechages,2,NA,NA,3,N,N,Australia,Dunc Gray Velodrome
+2000,57,NA,1/16 Finals Repechages,3,"11,805","60,991",1,Q,N,Australia,Dunc Gray Velodrome
+2000,76,NA,1/16 Finals Repechages,3,NA,NA,2,N,N,Australia,Dunc Gray Velodrome
+2000,64,NA,1/8 Finals,1,"10,799","66,673",1,Q,N,Australia,Dunc Gray Velodrome
+2000,57,NA,1/8 Finals,1,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,54,NA,1/8 Finals,2,"11,049","65,164",1,Q,N,Australia,Dunc Gray Velodrome
+2000,69,NA,1/8 Finals,2,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,65,NA,1/8 Finals,3,"10,906","66,019",1,Q,N,Australia,Dunc Gray Velodrome
+2000,78,NA,1/8 Finals,3,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,66,NA,1/8 Finals,4,"10,682","67,403",1,Q,N,Australia,Dunc Gray Velodrome
+2000,70,NA,1/8 Finals,4,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,72,NA,1/8 Finals,5,"10,682","67,403",1,Q,N,Australia,Dunc Gray Velodrome
+2000,67,NA,1/8 Finals,5,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,73,NA,1/8 Finals,6,"11,382","63,236",1,Q,N,Australia,Dunc Gray Velodrome
+2000,68,NA,1/8 Finals,6,NA,NA,2,R,N,Australia,Dunc Gray Velodrome
+2000,57,NA,1/8 Finals Repechages,1,"11,414","63,08",1,Q,N,Australia,Dunc Gray Velodrome
+2000,68,NA,1/8 Finals Repechages,1,NA,NA,2,C,N,Australia,Dunc Gray Velodrome
+2000,70,NA,1/8 Finals Repechages,1,NA,NA,3,C,N,Australia,Dunc Gray Velodrome
+2000,69,NA,1/8 Finals Repechages,2,"11,108","64,818",1,Q,N,Australia,Dunc Gray Velodrome
+2000,67,NA,1/8 Finals Repechages,2,NA,NA,2,C,N,Australia,Dunc Gray Velodrome
+2000,78,NA,1/8 Finals Repechages,2,NA,NA,3,C,N,Australia,Dunc Gray Velodrome
+2000,64,NA,Quarter Final 1 - Race 1,1,"10,888","66,127",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,69,NA,Quarter Final 1 - Race 1,1,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,64,NA,Quarter Final 1 - Race 2,1,"10,973","66,615",1,Q,N,Australia,Dunc Gray Velodrome
+2000,69,NA,Quarter Final 1 - Race 2,1,NA,NA,2,C,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Quarter Final 2 - Race 1,2,"10,648","67,618",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,57,NA,Quarter Final 2 - Race 1,2,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Quarter Final 2 - Race 2,2,"10,833","66,463",1,Q,N,Australia,Dunc Gray Velodrome
+2000,57,NA,Quarter Final 2 - Race 2,2,NA,NA,2,C,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Quarter Final 3 - Race 1,3,"10,744","67,014",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,56,NA,Quarter Final 3 - Race 1,3,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Quarter Final 3 - Race 2,3,"10,781","66,784",1,Q,N,Australia,Dunc Gray Velodrome
+2000,56,NA,Quarter Final 3 - Race 2,3,NA,NA,2,C,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Quarter Final 4 - Race 1,4,"10,966","65,657",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,72,NA,Quarter Final 4 - Race 1,4,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Quarter Final 4 - Race 2,4,"10,904","66,030",1,Q,N,Australia,Dunc Gray Velodrome
+2000,72,NA,Quarter Final 4 - Race 2,4,NA,NA,2,C,N,Australia,Dunc Gray Velodrome
+2000,64,NA,Semifinals 1 - Race 1,1,"10,930","65,873",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Semifinals 1 - Race 1,1,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,64,NA,Semifinals 1 - Race 2,1,"10,903","66,036",1,Q,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Semifinals 1 - Race 2,1,NA,NA,2,B,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Semifinals 2 - Race 1,2,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Semifinals 2 - Race 1,2,"10,822","66,531",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Semifinals 2 - Race 2,2,"10,877","66,194",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Semifinals 2 - Race 2,2,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Semifinals 2 - Race 3,2,"11,536","62,413",1,Q,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Semifinals 2 - Race 3,2,NA,NA,2,B,N,Australia,Dunc Gray Velodrome
+2000,68,NA,Race for 9th-12th Places,1,"11,078","64,994",1,9,N,Australia,Dunc Gray Velodrome
+2000,67,NA,Race for 9th-12th Places,1,NA,NA,2,10,N,Australia,Dunc Gray Velodrome
+2000,78,NA,Race for 9th-12th Places,1,NA,NA,3,11,N,Australia,Dunc Gray Velodrome
+2000,70,NA,Race for 9th-12th Places,1,-,-,4,DNS,N,Australia,Dunc Gray Velodrome
+2000,72,NA,Race for 5th-8th Places,1,"11,040","65,217",1,5,N,Australia,Dunc Gray Velodrome
+2000,73,NA,Race for 5th-8th Places,1,NA,NA,2,6,N,Australia,Dunc Gray Velodrome
+2000,57,NA,Race for 5th-8th Places,1,NA,NA,3,7,N,Australia,Dunc Gray Velodrome
+2000,69,NA,Race for 5th-8th Places,1,NA,NA,4,8,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Final for bronze - Race 1,1,"10,732","67,089",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Final for bronze - Race 1,1,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,66,NA,Final for bronze - Race 2,1,"10,918","65,946",1,3,N,Australia,Dunc Gray Velodrome
+2000,54,NA,Final for bronze - Race 2,1,NA,NA,2,4,N,Australia,Dunc Gray Velodrome
+2000,64,NA,Final for Gold - Race 1,1,"10,874","66,212",1,TBD,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Final for Gold - Race 1,1,NA,NA,2,TBD,N,Australia,Dunc Gray Velodrome
+2000,64,NA,Final for Gold - Race 2,1,"11,066","65,064",1,1,N,Australia,Dunc Gray Velodrome
+2000,65,NA,Final for Gold - Race 2,1,NA,NA,2,2,N,Australia,Dunc Gray Velodrome
+2008,37,NA,Qualifying,1,"9,815","73,357",1,Q,OR,China,Laoshan Velodrome
+2008,1,NA,Qualifying,1,"9,857","73,044",2,Q,N,China,Laoshan Velodrome
+2008,38,NA,Qualifying,1,"10,064","71,542",3,Q,N,China,Laoshan Velodrome
+2008,39,NA,Qualifying,1,"10,098","71,301",4,Q,N,China,Laoshan Velodrome
+2008,40,NA,Qualifying,1,"10,123","71,125",5,Q,N,China,Laoshan Velodrome
+2008,18,NA,Qualifying,1,"10,199","70,595",6,Q,N,China,Laoshan Velodrome
+2008,32,NA,Qualifying,1,"10,272","70,093",7,Q,N,China,Laoshan Velodrome
+2008,41,NA,Qualifying,1,"10,314","69,808",8,Q,N,China,Laoshan Velodrome
+2008,21,NA,Qualifying,1,"10,318","69,78",9,Q,N,China,Laoshan Velodrome
+2008,42,NA,Qualifying,1,"10,337","69,652",10,Q,N,China,Laoshan Velodrome
+2008,43,NA,Qualifying,1,"10,346","69,592",11,Q,N,China,Laoshan Velodrome
+2008,44,NA,Qualifying,1,"10,362","69,484",12,Q,N,China,Laoshan Velodrome
+2008,45,NA,Qualifying,1,"10,373","69,41",13,Q,N,China,Laoshan Velodrome
+2008,46,NA,Qualifying,1,"10,391","69,29",14,Q,N,China,Laoshan Velodrome
+2008,47,NA,Qualifying,1,"10,47","68,767",15,Q,N,China,Laoshan Velodrome
+2008,48,NA,Qualifying,1,"10,497","68,591",16,Q,N,China,Laoshan Velodrome
+2008,49,NA,Qualifying,1,"10,504","68,545",17,Q,N,China,Laoshan Velodrome
+2008,4,NA,Qualifying,1,"10,565","68,149",18,Q,N,China,Laoshan Velodrome
+2008,50,NA,Qualifying,1,"10,569","68,123",19,N,N,China,Laoshan Velodrome
+2008,51,NA,Qualifying,1,"10,966","65,657",20,N,N,China,Laoshan Velodrome
+2008,52,NA,Qualifying,1,"11,187","64,36",21,N,N,China,Laoshan Velodrome
+2008,37,NA,1/16 Finals,1,"10,607","67,879",1,Q,N,China,Laoshan Velodrome
+2008,4,NA,1/16 Finals,1,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,1,NA,1/16 Finals,2,"10,672","67,466",1,Q,N,China,Laoshan Velodrome
+2008,49,NA,1/16 Finals,2,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,38,NA,1/16 Finals,3,"10,828","66,494",1,Q,N,China,Laoshan Velodrome
+2008,48,NA,1/16 Finals,3,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,39,NA,1/16 Finals,4,"10,742","67,026",1,Q,N,China,Laoshan Velodrome
+2008,47,NA,1/16 Finals,4,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,40,NA,1/16 Finals,5,"10,562","68,168",1,Q,N,China,Laoshan Velodrome
+2008,46,NA,1/16 Finals,5,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,18,NA,1/16 Finals,6,"10,840","66,420",1,Q,N,China,Laoshan Velodrome
+2008,45,NA,1/16 Finals,6,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,44,NA,1/16 Finals,7,"10,762","66,902",1,Q,N,China,Laoshan Velodrome
+2008,32,NA,1/16 Finals,7,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,41,NA,1/16 Finals,8,"10,786","66,753",1,Q,N,China,Laoshan Velodrome
+2008,43,NA,1/16 Finals,8,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,21,NA,1/16 Finals,9,"10,959","65,699",1,Q,N,China,Laoshan Velodrome
+2008,42,NA,1/16 Finals,9,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,45,NA,1/16 Finals Repechages,1,"10,889","66,121",1,Q,N,China,Laoshan Velodrome
+2008,42,NA,1/16 Finals Repechages,1,NA,NA,2,N,N,China,Laoshan Velodrome
+2008,4,NA,1/16 Finals Repechages,1,NA,NA,3,N,N,China,Laoshan Velodrome
+2008,32,NA,1/16 Finals Repechages,2,"10,959","65,699",1,Q,N,China,Laoshan Velodrome
+2008,46,NA,1/16 Finals Repechages,2,NA,NA,2,N,N,China,Laoshan Velodrome
+2008,49,NA,1/16 Finals Repechages,2,NA,NA,3,N,N,China,Laoshan Velodrome
+2008,43,NA,1/16 Finals Repechages,3,"10,965","65,663",1,Q,N,China,Laoshan Velodrome
+2008,47,NA,1/16 Finals Repechages,3,NA,NA,2,N,N,China,Laoshan Velodrome
+2008,48,NA,1/16 Finals Repechages,3,NA,NA,3,N,N,China,Laoshan Velodrome
+2008,37,NA,1/8 Finals,1,"10,636","67,694",1,Q,N,China,Laoshan Velodrome
+2008,43,NA,1/8 Finals,1,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,1,NA,1/8 Finals,2,"10,531","68,369",1,Q,N,China,Laoshan Velodrome
+2008,32,NA,1/8 Finals,2,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,45,NA,1/8 Finals,3,"10,888","66,127",1,Q,N,China,Laoshan Velodrome
+2008,38,NA,1/8 Finals,3,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,21,NA,1/8 Finals,4,"10,777","66,808",1,Q,N,China,Laoshan Velodrome
+2008,39,NA,1/8 Finals,4,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,40,NA,1/8 Finals,5,"10,734","67,706",1,Q,N,China,Laoshan Velodrome
+2008,41,NA,1/8 Finals,5,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,18,NA,1/8 Finals,6,"10,763","66,895",1,Q,N,China,Laoshan Velodrome
+2008,44,NA,1/8 Finals,6,NA,NA,2,R,N,China,Laoshan Velodrome
+2008,39,NA,1/8 Finals Repechages,1,"10,570","68,117",1,Q,N,China,Laoshan Velodrome
+2008,43,NA,1/8 Finals Repechages,1,NA,NA,2,C,N,China,Laoshan Velodrome
+2008,44,NA,1/8 Finals Repechages,1,NA,NA,3,C,N,China,Laoshan Velodrome
+2008,32,NA,1/8 Finals Repechages,2,"11,010","65,395",1,Q,N,China,Laoshan Velodrome
+2008,38,NA,1/8 Finals Repechages,2,NA,NA,2,C,N,China,Laoshan Velodrome
+2008,41,NA,1/8 Finals Repechages,2,NA,NA,3,C,N,China,Laoshan Velodrome
+2008,37,NA,Quarter Final 1 - Race 1,1,"10,820","66,543",1,TBD,N,China,Laoshan Velodrome
+2008,32,NA,Quarter Final 1 - Race 1,1,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,37,NA,Quarter Final 1 - Race 2,1,"10,302","69,889",1,Q,N,China,Laoshan Velodrome
+2008,32,NA,Quarter Final 1 - Race 2,1,NA,NA,2,C,N,China,Laoshan Velodrome
+2008,1,NA,Quarter Final 2 - Race 1,2,"10,546","68,272",1,TBD,N,China,Laoshan Velodrome
+2008,39,NA,Quarter Final 2 - Race 1,2,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,1,NA,Quarter Final 2 - Race 2,2,"10,595","67,956",1,Q,N,China,Laoshan Velodrome
+2008,39,NA,Quarter Final 2 - Race 2,2,NA,NA,2,C,N,China,Laoshan Velodrome
+2008,18,NA,Quarter Final 3 - Race 1,3,"10,689","67,358",1,TBD,N,China,Laoshan Velodrome
+2008,45,NA,Quarter Final 3 - Race 1,3,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,18,NA,Quarter Final 3 - Race 2,3,"10,660","67,542",1,Q,N,China,Laoshan Velodrome
+2008,45,NA,Quarter Final 3 - Race 2,3,NA,NA,2,C,N,China,Laoshan Velodrome
+2008,40,NA,Quarter Final 4 - Race 1,4,"10,524","68,415",1,TBD,N,China,Laoshan Velodrome
+2008,21,NA,Quarter Final 4 - Race 1,4,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,40,NA,Quarter Final 4 - Race 2,4,"10,463","68,813",1,Q,N,China,Laoshan Velodrome
+2008,21,NA,Quarter Final 4 - Race 2,4,NA,NA,2,C,N,China,Laoshan Velodrome
+2008,37,NA,Semifinals 1 - Race 1,1,"10,260","70,175",1,TBD,N,China,Laoshan Velodrome
+2008,40,NA,Semifinals 1 - Race 1,1,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,37,NA,Semifinals 1 - Race 2,1,"10,358","69,511",1,Q,N,China,Laoshan Velodrome
+2008,40,NA,Semifinals 1 - Race 2,1,NA,NA,2,B,N,China,Laoshan Velodrome
+2008,1,NA,Semifinals 2 - Race 1,2,"10,594","67,962",1,BD,N,China,Laoshan Velodrome
+2008,18,NA,Semifinals 2 - Race 1,2,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,1,NA,Semifinals 2 - Race 2,2,"10,335","69,666",1,Q,N,China,Laoshan Velodrome
+2008,18,NA,Semifinals 2 - Race 2,2,NA,NA,2,B,N,China,Laoshan Velodrome
+2008,38,NA,Race for 9th-12th Places,1,"11,051","65,152",1,9,N,China,Laoshan Velodrome
+2008,41,NA,Race for 9th-12th Places,1,NA,NA,2,10,N,China,Laoshan Velodrome
+2008,44,NA,Race for 9th-12th Places,1,NA,NA,3,11,N,China,Laoshan Velodrome
+2008,43,NA,Race for 9th-12th Places,1,NA,NA,4,12,N,China,Laoshan Velodrome
+2008,39,NA,Race for 5th-8th Places,1,"10,719","67,170",1,5,N,China,Laoshan Velodrome
+2008,45,NA,Race for 5th-8th Places,1,NA,NA,2,6,N,China,Laoshan Velodrome
+2008,21,NA,Race for 5th-8th Places,1,NA,NA,3,7,N,China,Laoshan Velodrome
+2008,32,NA,Race for 5th-8th Places,1,NA,NA,4,8,N,China,Laoshan Velodrome
+2008,40,NA,Final for bronze - Race 1,1,"11,047","65,176",1,TBD,N,China,Laoshan Velodrome
+2008,18,NA,Final for bronze - Race 1,1,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,40,NA,Final for bronze - Race 2,1,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,18,NA,Final for bronze - Race 2,1,"10,666","67,504",1,TBD,N,China,Laoshan Velodrome
+2008,40,NA,Final for bronze - Race 3,1,"10,56","68,181",1,4,N,China,Laoshan Velodrome
+2008,18,NA,Final for bronze - Race 3,1,NA,NA,2,3,N,China,Laoshan Velodrome
+2008,37,NA,Final for Gold - Race 1,1,"10,228","70,394",1,TBD,N,China,Laoshan Velodrome
+2008,1,NA,Final for Gold - Race 1,1,NA,NA,2,TBD,N,China,Laoshan Velodrome
+2008,37,NA,Final for Gold - Race 2,1,"10,216","70,477",1,1,N,China,Laoshan Velodrome
+2008,1,NA,Final for Gold - Race 2,1,NA,NA,2,2,N,China,Laoshan Velodrome
+1896,81,NA,Final for Gold - Race 1,1,"27,492",26.189,1,1,N,Greece,Neo Phaliron Velodrome

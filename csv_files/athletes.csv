@@ -1,0 +1,82 @@
+athlete_id,name,date_of_birth,nation,sex
+1,Jason Kenny,23/03/1988,Great Britain,male
+2,Callum Skinner,20/08/1992,Great Britain,male
+3,Matthew Glaetzer,24/08/1992,Australia,male
+4,Denis Dmitriev,23/03/1986,Russia,male
+5,Grégory Baugé,31/01/1985,France,male
+6,Njisane Phillip,29/05/1991,Trinidad and Tobago,male
+7,Damian Zielinski,02/12/1981,Poland,male
+8,Jeffrey Hoogland,16/03/1993,Netherlands,male
+9,Sam Webster,16/07/1991,New Zealand,male
+10,Edward Dawkins,11/08/1989,New Zealand,male
+11,Francois Pervis,16/10/1984,France,male
+12,Joachim Eilers,02/04/1990,Germany,male
+13,Xu Chao,05/11/1994,China,male
+14,Pavel Kelemen,28/05/1991,Czech Republic,male
+15,Rafal Sarnecki,08/01/1990,Poland,male
+16,Fabian Hernando Puerta Zapata,12/07/1991,Colombia,male
+17,Patrick Constable,15/07/1995,Australia,male
+18,Maximilian Levy,26/06/1987,Germany,male
+19,Juan Peralta Gascon,17/05/1990,Spain,male
+20,Kang Dong-jin,23/12/1987,South Korea,male
+21,Theo Bos,22/08/1983,Netherlands,male
+22,Im Chaebin,29/10/1991,South Korea,male
+23,Santiago Ramírez,20/07/1994,Colombia,male
+24,Hersony Canelon,08/12/1988,Venezuela,male
+25,Seiichiro Nakagawa,07/06/1979,Japan,male
+26,Nikita Shurshin,08/04/1993,Russia,male
+27,Cesar Marcano,22/10/1987,Venezuela,male
+28,Shane Perkins,30/12/1986,Australia,male
+29,Robert Förstemann,05/03/1985,Germany,male
+30,Zhang Miao,12/08/1988,China,male
+31,Eddie Dawkins,11/07/1989,New Zealand,male
+32,Azizulhasni Awang,05/01/1988,Malaysia,male
+33,Jimmy Watkins,26/08/1982,United States,male
+34,Bernard Esterhuizen,04/10/1992,South Africa,male
+35,Hodei Mazquiaran,16/12/1988,Spain,male
+36,Zafeiris Volikakis,26/06/1989,Greece,male
+37,Chris Hoy,23/03/1976,Great Britain,male
+38,Stefan Nimke,01/03/1978,Germany,male
+39,Kévin Sireau,18/04/1987,France,male
+40,Mickaël Bourgain,28/05/1980,France,male
+41,Roberto Chiappa,11/09/1973,Italy,male
+42,Mark French,13/10/1984,Australia,male
+43,Kazunari Watanabe,12/08/1983,Japan,male
+44,Ryan Bayley,09/03/1982,Australia,male
+45,Teun Mulder,18/06/1981,Netherlands,male
+46,Tsubasa Kitatsuru,26/04/1985,Japan,male
+47,Michael Blatchford,29/01/1986,United States,male
+48,Zhang Lei,04/04/1981,China,male
+49,Łukasz Kwiatkowski,29/05/1982,Poland,male
+50,Adam Ptáčník,04/12/1985,Czech Republic,male
+51,Vasileios Reppas,04/11/1988,Greece,male
+52,Daniel Novikov,06/06/1989,Estonia,male
+53,René Wolff,04/04/1978,Germany,male
+54,Laurent Gané,07/03/1973,France,male
+55,Ross Edgar,03/01/1983,Great Britain,male
+56,José Antonio Villanueva,03/02/1979,Spain,male
+57,Sean Eadie,15/04/1969,Australia,male
+58,Josiah Ng,02/02/1980,Malaysia,male
+59,Barry Forde,17/09/1976,Barbados,male
+60,Tomohiro Nagatsuka,29/11/1978,Japan,male
+61,Kim Chi-beom,21/02/1981,South Korea,male
+62,Jaroslav Jeřábek,02/04/1971,Slovakia,male
+63,Yang Hui-cheon,08/12/1982,South Korea,male
+64,Marty Nothstein,10/02/1971,United States,male
+65,Florian Rousseau,03/03/1974,France,male
+66,Jens Fiedler,15/02/1970,Germany,male
+67,Viesturs Bērziņš,09/04/1974,Latvia,male
+68,Pavel Buran,25/04/1973,Czech Republic,male
+69,Craig MacLean,31/07/1971,Great Britain,male
+70,Darryn Hill,11/08/1974,Australia,male
+71,Ján Lepka,03/01/1977,Slovakia,male
+72,Jan van Eijden,10/08/1976,Germany,male
+73,Jose Villanueva,03/02/1979,Spain,male
+74,Shinichi Ota,11/10/1975,Japan,male
+75,Anthony Peden,15/09/1970,New Zealand,male
+76,Nikolaos Angelidis,22/01/1977,Greece,male
+77,Julio César Herrera,11/03/1977,Cuba,male
+78,Christian Arrue,08/01/1969,United States,male
+79,Bartlomiej Saczuk,10/10/1979,Poland,male
+80,Alois Kaňkovský,09/07/1983,Czech Republic,male
+81,Paul Masson,11/10/1876,France,male
