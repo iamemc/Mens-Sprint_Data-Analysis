@@ -36,7 +36,7 @@ INTRODUCTION
 
 RESULTS
 ---------------
-[!(https://github.com/iamemc/Mens-Sprint_Data-Analysis/blob/main/images/graph_1.png)]
+[![Cyclists per Continent](https://github.com/iamemc/Mens-Sprint_Data-Analysis/blob/main/images/graph_1.png?raw=true)]
 
 Men's Sprint Rules
 ---------------
