@@ -5,11 +5,13 @@
 - Ana Castanheira
 	analuciacastanhei@gmail.com
 
+
 - Eduardo Carvalho
 	eduardo_martins_carvalho@hotmail.com
 
+
 - Introduction to Programming.
-	-- Lecturer: Dr. José Campos.
+	- Lecturer: Dr. José Campos.
 
 - FCUL - Faculdade de Ciências da Universidade de Lisboa.
 
