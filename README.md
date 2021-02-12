@@ -1,3 +1,4 @@
+# Mens Sprint Data Analysis
 
 
 ## METADATA
@@ -179,4 +180,5 @@ MANTAINERS
 
 This program was coded and is maintained by:
 > Ana Castanheira | analuciacastanhei@gmail.com | Master's in Biostatistics | FCUL
+
 > Eduardo Carvalho | eduardo_martins_carvalho@hotmail.com | Master's in Informatics | FCUL
