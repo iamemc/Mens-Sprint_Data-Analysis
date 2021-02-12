@@ -16,7 +16,7 @@
 
 - FCUL - Faculdade de Ciências da Universidade de Lisboa.
 
-DELIVERY STRUCTURE
+STRUCTURE
 ---------------
 - README.md
 - main.py
@@ -24,6 +24,18 @@ DELIVERY STRUCTURE
     - athletes.csv
 	- sport_events.csv
 - images [if created]
+
+RESULTS
+---------------
+![](images/graph_1.png)
+![](images/graph_6.png?raw=true)
+![](images/graph_7.png?raw=true)
+![](images/graph_8.png?raw=true)
+![](images/graph_9.png?raw=true)
+![](images/table_1.png?raw=true)
+![](images/table_2.png?raw=true)
+![](images/table_3.png?raw=true)
+![](images/table_4.png?raw=true)
 
 INTRODUCTION
 ---------------
