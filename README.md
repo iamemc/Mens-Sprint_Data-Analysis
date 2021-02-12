@@ -34,10 +34,6 @@ INTRODUCTION
 > their performance at the Men's Sprint events in one or many Olympic Editions.
 > The PDF file contains a data analysis of the athlete statistics per edition.
 
-RESULTS
----------------
-[![Cyclists per Continent](https://github.com/iamemc/Mens-Sprint_Data-Analysis/blob/main/images/graph_1.png?raw=true)]
-
 Men's Sprint Rules
 ---------------
 > *As defined by Union Cycliste Internationale (UCI) rules, the first round of competition used 
