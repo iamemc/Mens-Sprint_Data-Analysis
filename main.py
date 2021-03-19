@@ -1,4 +1,3 @@
-#https://docs.google.com/document/d/1Y31Nt05peNIPwLo9O_TsTRAcy0GbDqGvRcHvJ4qtgzk/edit
 ###################### Indíce ####################### 
 #---- Instruções
 #---- Imports
